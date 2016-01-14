@@ -29,7 +29,7 @@ public class Main {
 
             }
         }
-t
+
         logger.Log("End Main()");
         logger.ShutDown();
     }
